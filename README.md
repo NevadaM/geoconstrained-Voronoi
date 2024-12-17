@@ -1,5 +1,8 @@
+# THIS README IS UNDER CONSTRUCTION. USE example_notebook.ipynb AND THE MEDIUM ARTICLE LINKED BELOW FOR A SUMMARY OF THIS WORK
+(research paper will also come soon)
+
 # geoconstrained-Voronoi
-A python module for building geographically mapped Voronoi cells, used in my case to build healthcare analysis of South Africa with healthsites.io and WorldPop datasets. This is the clean version of the code I did for <a href='https://medium.com/odi-research/open-data-science-to-be-proud-of-geographic-healthcare-analysis-with-healthsites-io-and-worldpop-e33ee98d8a81'>this piece of data science</a>.
+A python module for building geographically mapped Voronoi cells, used in my case to build healthcare analysis with healthsites.io and WorldPop datasets. This is the clean version of the code I did for <a href='https://medium.com/odi-research/open-data-science-to-be-proud-of-geographic-healthcare-analysis-with-healthsites-io-and-worldpop-e33ee98d8a81'>this piece of data science</a>.
 
 ## Index
 * gcVoronoi.py is the module built to automate the process. It's not easy to explain the way the methods work but they do, so that's all that matters right?
